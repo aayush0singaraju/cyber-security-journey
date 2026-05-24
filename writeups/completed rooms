@@ -1,1 +1,39 @@
+## TryHackMe — Pre-Security Path
 
+### Module 1: Introduction to Cybersecurity
+- Overview of how offensive and defensive security work, demoed with VM commands
+- Different job paths in cybersecurity
+- Defensive process: Preparation → Detection & Analysis → Containment, Eradication & Recovery → Post-incident activity
+
+### Module 2: Network Fundamentals
+**Networking (intro):**
+- What networking is and types of networks (LAN, WAN, etc.)
+- Pinging IPs and servers
+
+**Intro to LAN:**
+- How LAN, switches, and routers function
+- Common IP addresses
+- Subnetting basics
+- ARP and DHCP protocols
+
+**OSI Model:**
+- What the OSI model is and why it exists
+- 7 layers and their functions
+- Encapsulation
+- TCP and UDP protocols
+
+**Packets and Frames:**
+- What packets and frames are
+- How packets are encapsulated in frames 
+- Protocols at different layers
+- The TCP 3-way handshake 
+
+**Extending Your Network:**
+- Intro to HTTP and ports
+- Port forwarding
+- How firewalls function (stateful vs stateless)
+
+
+
+
+  
