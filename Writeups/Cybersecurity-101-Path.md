@@ -43,10 +43,11 @@
 
 ### Windows Fundamentals 1  
 - Layout of the windows GUI system
-- file systems used (NFTS, FAT, HPFS)
+- File systems used (NFTS, FAT, HPFS)
 - %windir% and System32 files and their importance
 - Administrator and User account privileges
 - User Account Control (UAC) and what it does
+- Layout of control panel
 - Task manager and its various functions
 
 ### Windows Fundamentals 2
