@@ -39,6 +39,16 @@
 - Package management with `apt`
 - Accessing server logs (e.g., `/var/log/apache2/`)
 
----
+## Module 3: Windows and AD Fundamentals
 
-*In progress — next: Module 3*
+### Windows Fundamentals 1  
+- Layout of the windows GUI system
+- file systems used (NFTS, FAT, HPFS)
+- %windir% and System32 files and their importance
+- Administrator and User account privileges
+- User Account Control (UAC) and what it does
+- Task manager and its various functions
+
+### Windows Fundamentals 2
+- 
+
