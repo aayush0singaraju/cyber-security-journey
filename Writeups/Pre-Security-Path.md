@@ -1,4 +1,4 @@
-                                                             # TryHackMe — Pre-Security Path
+                                                              TryHackMe — Pre-Security Path
 
 ## Module 1: Introduction to Cybersecurity
 
