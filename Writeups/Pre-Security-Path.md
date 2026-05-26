@@ -1,133 +1,133 @@
-                                                            TryHackMe — Pre-Security Path
+                                                             # TryHackMe — Pre-Security Path
 
-Module 1: Introduction to Cybersecurity
+## Module 1: Introduction to Cybersecurity
 
-    - Overview of how offensive and defensive security work, demoed with VM commands
-    - Different job paths in cybersecurity
-    - Defensive process: Preparation → Detection & Analysis → Containment, Eradication & Recovery → Post-incident activity
+- Overview of how offensive and defensive security work, demoed with VM commands
+- Different job paths in cybersecurity
+- Defensive process: Preparation → Detection & Analysis → Containment, Eradication & Recovery → Post-incident activity
 
-Module 2: Network Fundamentals
+## Module 2: Network Fundamentals
 
-  Networking:
-    - What networking is and types of networks (LAN, WAN, etc.)
-    - Pinging IPs and servers
+### Networking
+- What networking is and types of networks (LAN, WAN, etc.)
+- Pinging IPs and servers
 
-  Intro to LAN:
-    - How LAN, switches, and routers function
-    - Common IP addresses
-    - Subnetting basics
-    - ARP and DHCP protocols
+### Intro to LAN
+- How LAN, switches, and routers function
+- Common IP addresses
+- Subnetting basics
+- ARP and DHCP protocols
 
-  OSI Model:
-    - What the OSI model is and why it exists
-    - 7 layers and their functions
-    - Encapsulation
-    - TCP and UDP protocols
+### OSI Model
+- What the OSI model is and why it exists
+- 7 layers and their functions
+- Encapsulation
+- TCP and UDP protocols
 
-  Packets and Frames:
-    - What packets and frames are
-    - How packets are encapsulated in frames 
-    - Protocols at different layers
-    - The TCP 3-way handshake 
-  
-  Extending Your Network:
-    - Intro to HTTP and ports
-    - Port forwarding
-    - How firewalls function (stateful vs stateless)
+### Packets and Frames
+- What packets and frames are
+- How packets are encapsulated in frames
+- Protocols at different layers
+- The TCP 3-way handshake
 
-Module 3: How the Web works
+### Extending Your Network
+- Intro to HTTP and ports
+- Port forwarding
+- How firewalls function (stateful vs stateless)
 
-  DNS in detail:
-    - what is a DNS
-    - Priority order of DNS (TLD, ccTLD etc)
-    - DNS Record types
-    - What happens when you make a DNS request
+## Module 3: How the Web Works
 
-  HTTP in detail:
-    - What is HTTP/HTTPS
-    - What is a URL
-    - Parts of a URL
-    - status codes
-    - Headers and cookies
-    - HTTP commands (GET, POST etc)
+### DNS in Detail
+- What DNS is
+- Priority order of DNS (TLD, ccTLD, etc.)
+- DNS record types
+- What happens when you make a DNS request
 
-  How Websites work:
-    - what is a website
-    - How requests travel from client - server
-    - HTML, Javascripts used in websites
-    - Inspecting websites source code
+### HTTP in Detail
+- What HTTP/HTTPS is
+- What a URL is
+- Parts of a URL
+- HTTP status codes
+- Headers and cookies
+- HTTP methods (GET, POST, etc.)
 
-  Putiing it all together:
-    - Load Balancers, CDN, database, WAF
-    - how web servers work (static vs dynamic)
-    - frontend code vs backend code
+### How Websites Work
+- What a website is
+- How requests travel from client to server
+- HTML and JavaScript in websites
+- Inspecting website source code
 
-Module 4: Computer Fundamentals
+### Putting It All Together
+- Load balancers, CDN, database, WAF
+- How web servers work (static vs dynamic)
+- Frontend code vs backend code
 
-  Inside a computer system:
-    - How does a computer turn on (steps)
-    - what happnes when u press he power-on button
-    - parts of the computer (RAM, CPU etc) and their functions
+## Module 4: Computer Fundamentals
 
-  Computer types:
-    - What is a computer
-    - Different types of computers
-    - Laptop, Desktop, Phone, Embedded systems, IoT etc
+### Inside a Computer System
+- How a computer turns on (steps)
+- What happens when you press the power button
+- Parts of the computer (RAM, CPU, etc.) and their functions
 
-  Client-Server Basics:
-    - How does a request travel from client-server and back to client
-    - HTTP commands (GET, POST etc)
-    - HTTP communication and inspection
+### Computer Types
+- What a computer is
+- Different types of computers
+- Laptop, Desktop, Phone, Embedded systems, IoT, etc.
 
-  Virtualisation Basics:
-    - What is virtualization
-    - Components of virtualization (Hyperviser, machine, containers)
-    - Managing a virtual machine
+### Client-Server Basics
+- How a request travels from client to server and back
+- HTTP methods (GET, POST, etc.)
+- HTTP communication and inspection
 
-  Cloud Computing Fundamentals:
-    - What is cloud computing
-    - Types of cloud computing (public, private and hybrid)
-    - cloud servicing models (IaaS, PaaS, SaaS)
-    - Cloud terminology (EC2, Instance type)
+### Virtualisation Basics
+- What virtualization is
+- Components of virtualization (hypervisor, VM, containers)
+- Managing a virtual machine
 
-Module 5: OS Basics
+### Cloud Computing Fundamentals
+- What cloud computing is
+- Types of cloud computing (public, private, hybrid)
+- Cloud service models (IaaS, PaaS, SaaS)
+- Cloud terminology (EC2, instance type)
 
-  OS introduction:
-    - CLI
-    - GUI
+## Module 5: OS Basics
 
-  Windows Basics:
-    - dir
-    - cd
-    - df -h
-    - mkdir / rmdir
+### OS Introduction
+- CLI (Command Line Interface)
+- GUI (Graphical User Interface)
 
-  Linux Basics:
-    - cd
-    - ls
-    - pwd
-    - cat, head, tail
+### Windows Basics
+- `dir` — list directory contents
+- `cd` — change directory
+- `df -h` — disk usage in human-readable format
+- `mkdir / rmdir` — make and remove directories
 
-Module 6: Software basics
+### Linux Basics
+- `cd` — change directory
+- `ls` — list directory contents
+- `pwd` — print working directory
+- `cat`, `head`, `tail` — read file contents
 
-   - How data is represented on a computer.
-   - how are colours, numbers represented.
-   - ASCII, Hexadecimal, Decimal, Binary representation of data
-   - Unicode, UTF-8,16,32 and international languages 
+## Module 6: Software Basics
 
-Module 7: Attack and defence:
+- How data is represented in a computer
+- How colours and numbers are represented
+- ASCII, hexadecimal, decimal, and binary representations
+- Unicode, UTF-8/16/32, and international language support
 
-   - CIA triad (Confidentiality, Integrity and Availabiltiy)
-   - Symmetric and Asymmetric Encryption
-   - Paths for hacking and defending
+## Module 7: Attack and Defence
 
-    
+- CIA Triad: Confidentiality, Integrity, Availability
+- Symmetric encryption (same key encrypts/decrypts — e.g., AES)
+- Asymmetric encryption (public/private keypair — e.g., RSA)
+- Paths for hacking and defending
 
-  
+---
 
-  
+## Pre-Security Path Status
 
+**TryHackMe completion shown:** 54% (paywalled rooms not accessible at the time)
+**Content covered:** All foundational modules above
+**Date completed:** [today's date]
 
-
-
-  
+**Next:** TryHackMe Cyber Security 101 path — detailed writeups for all rooms going forward will be in [`writeups/tryhackme/`](../writeups/tryhackme).
