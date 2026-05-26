@@ -123,11 +123,3 @@
 - Paths for hacking and defending
 
 ---
-
-## Pre-Security Path Status
-
-**TryHackMe completion shown:** 54% (paywalled rooms not accessible at the time)
-**Content covered:** All foundational modules above
-**Date completed:** [today's date]
-
-**Next:** TryHackMe Cyber Security 101 path — detailed writeups for all rooms going forward will be in [`writeups/tryhackme/`](../writeups/tryhackme).
