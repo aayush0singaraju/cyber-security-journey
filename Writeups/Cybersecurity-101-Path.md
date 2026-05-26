@@ -1,4 +1,4 @@
-# TryHackMe — Cyber Security 101 Path
+                                                       TryHackMe — Cyber Security 101 Path
 
 ## Module 1: Start Your Journey
 
