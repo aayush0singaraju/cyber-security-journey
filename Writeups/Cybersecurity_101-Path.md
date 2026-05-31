@@ -79,3 +79,41 @@
   - Resource Monitor (resmon) — detailed CPU/memory/disk/network usage
   - Command Prompt (cmd) — Windows CLI
   - Registry Editor (regedit) — database of all Windows configuration settings
+
+### Windows Fundamentals 3
+
+**Windows Update**
+  - Manages OS patches and security updates
+
+**Windows Security**
+
+  *Virus and Threat Protection*
+  - Current threats and scan options (Quick/Full/Custom)
+  - Threat history
+  - Protection settings (real-time protection, folder exclusions)
+  - Ransomware protection (controlled folder access)
+
+  *Firewall and Network Protection*
+  - Three profiles: Domain, Private, Public
+  - Each can be configured independently
+  - Advanced settings for inbound/outbound rules
+
+  *App and Browser Control*
+  - Protects against phishing, malware sites, malicious downloads
+  - Exploit protection settings
+
+  *Device Security*
+  - Core isolation (memory integrity)
+  - Security processor — TPM (Trusted Platform Module)
+
+**BitLocker**
+  - Full-drive encryption — data unreadable without decryption key
+  - Best used with TPM hardware
+  - Protects against physical theft of drives
+
+**VSS (Volume Shadow Copy Service)**
+  - Creates point-in-time snapshots of files and volumes
+  - Enables restoring previous versions of files
+  - Ransomware often deletes shadow copies first (`vssadmin delete shadows`)
+    to prevent free recovery — this is a key indicator of ransomware activity
+  - Forensic investigators use shadow copies to recover deleted evidence
