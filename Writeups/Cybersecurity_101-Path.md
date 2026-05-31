@@ -62,7 +62,7 @@
 **Advanced System Settings**
   - Page file (pagefile.sys): hard drive used as overflow RAM 
   - Crash dumps: RAM snapshots
-  - 
+
 **Computer Management (compmgmt.msc)**
   - Task Scheduler (taskschd.msc) — schedule automated tasks
   - Event Viewer (eventvwr.msc) — system/security/application logs
