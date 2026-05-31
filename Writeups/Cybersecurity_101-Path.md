@@ -51,5 +51,31 @@
 - Task manager and its various functions
 
 ### Windows Fundamentals 2
-- 
 
+**MSConfig**
+  - General tab: Normal / Diagnostic / Selective boot modes
+  - Boot tab: boot options, safe mode config
+  - Services tab: all background services (running/stopped)
+  - Startup tab
+  - Tools tab: shortcut launcher for admin utilities
+
+**Advanced System Settings**
+  - Page file (pagefile.sys): hard drive used as overflow RAM 
+  - Crash dumps: RAM snapshots
+  - 
+**Computer Management (compmgmt.msc)**
+  - Task Scheduler (taskschd.msc) — schedule automated tasks
+  - Event Viewer (eventvwr.msc) — system/security/application logs
+  - Shared Folders — network shares including hidden defaults (C$, ADMIN$, IPC$)
+  - Local Users and Groups (lusrmgr.msc) — user/group management
+  - Performance Monitor (perfmon) — real-time system metrics
+  - Device Manager (devmgmt.msc) — hardware management
+  - Disk Management (diskmgmt.msc) — partition/drive admin
+  - Services (services.msc) — manage background services
+  - WMI — scripting interface for managing Windows remotely
+
+**Other tools covered**
+  - msinfo32 — system information panel (hardware, software, components)
+  - Resource Monitor (resmon) — detailed CPU/memory/disk/network usage
+  - Command Prompt (cmd) — Windows CLI
+  - Registry Editor (regedit) — database of all Windows configuration settings
