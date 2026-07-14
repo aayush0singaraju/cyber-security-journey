@@ -51,11 +51,12 @@ The following vulnerabilities were identified and confirmed during this assessme
 - **HIGH-7:** Session Cookie Missing HttpOnly Flag
 - **HIGH-8:** Sensitive Data in Client-Side JavaScript
 - **HIGH-9:** Insecure Client-Side Authentication Token
-- **MEDIUM-10:** No Account Lockout or Rate Limiting
-- **MEDIUM-11:** Missing CSRF Protection
-- **MEDIUM-12:** Application Log File Disclosed
-- **LOW-13:** Information Disclosure via robots.txt
-- **LOW-14:** Server Version Disclosure in HTTP Response Headers
+- **HIGH-10:** Reflected XSS on Menu Search
+- **MEDIUM-11:** No Account Lockout or Rate Limiting
+- **MEDIUM-12:** Missing CSRF Protection
+- **MEDIUM-13:** Application Log File Disclosed
+- **LOW-14:** Information Disclosure via robots.txt
+- **LOW-15:** Server Version Disclosure in HTTP Response Headers
 
 Total: 14 vulnerabilities confirmed (5 critical, 4 high, 3 medium, 2 low)
 
