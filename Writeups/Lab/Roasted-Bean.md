@@ -1,6 +1,6 @@
 # Penetration Test Report — The Roasted Bean Cafe
 
-**Tester:** Aayush Singh
+**Tester:** Aayush Singaraju
 **Date:** June 13, 2026
 **Target:** 192.168.1.106 (internal lab environment)
 **Engagement type:** Authorized lab assessment
