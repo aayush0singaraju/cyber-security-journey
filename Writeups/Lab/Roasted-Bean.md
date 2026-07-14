@@ -58,7 +58,7 @@ The following vulnerabilities were identified and confirmed during this assessme
 - **LOW-14:** Information Disclosure via robots.txt
 - **LOW-15:** Server Version Disclosure in HTTP Response Headers
 
-Total: 14 vulnerabilities confirmed (5 critical, 4 high, 3 medium, 2 low)
+Total: 15 vulnerabilities confirmed (5 critical, 5 high, 3 medium, 2 low)
 
 ---
 
